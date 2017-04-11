@@ -1,0 +1,13 @@
+{
+  "name": "FlowHoCDemo",
+  "version": "1.0.0",
+  "description": "Demo of how to type HoC's",
+  "main": "index.js",
+  "author": "lewisf <lchung@coursera.org>",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.43.1",
+    "react": "^15.5.3",
+    "recompose": "^0.23.1"
+  }
+}
